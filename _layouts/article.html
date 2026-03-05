@@ -1,0 +1,33 @@
+---
+title: Artikel
+layout: splash
+---
+
+<div class="splash_text">
+<br>
+{% if page.keepTitleStyle == true %}
+<h1 class="post-title"> <span class="post-title"> {{ page.name }} </span> </h1>
+{% else %}
+<h1 class="post-title-change"> <span class="post-title-change"> {{ page.name }} </span> </h1>
+{% endif %}
+
+{{ content }}
+
+{% assign sorted_tags = page.tags | sort %}
+
+<br>
+
+<hr class="big-sep">
+<center>
+    <b> Tags: </b>
+</center>
+
+<center>
+{% for tag in sorted_tags %}
+<a class="hov"
+   href="{{site.baseurl}}/blog#{{tag|slugize}}"
+   rel="noopener noreferrer nofollow"
+   target="_blank">{{tag}}</a>
+{% endfor %}
+</center>
+</div>

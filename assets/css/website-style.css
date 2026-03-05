@@ -1,0 +1,292 @@
+/* special styles for req42 website */
+
+
+.bold {
+    font-weight: bold;
+}
+
+/* a big separating dashed line */
+hr.big-sep {
+    border-top: 5px dashed grey;
+}
+
+/* a semi-big separating blue solid line */
+hr.blue-sep {
+    border-top: 3px solid CornflowerBlue;
+}
+
+/* a semi-big separating grey solid line with top and bottom margins */
+hr.download-sep {
+    margin: 50px 0px 50px 0px;
+    border-top: 2.5px solid grey;
+}
+
+/* For making the framework-text not go to the full edge of the screen */
+div.splash_text {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+/* A box to put some coaching content in */
+div.coaching_box {
+    font-size: 80%;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 3px solid CornflowerBlue;
+    background-color: rgba(0,0,0, 0.05);
+}
+
+
+div.news_box {
+    font-size: 75%;
+    margin: 50px;
+    padding: 10px 10px 0px 10px;
+    border: 3px solid #b3000a;
+    background-color: rgba(0,0,0, 0.05);
+    border-radius: 4px;
+}
+
+/* A bright blue background box (for feature row content) */
+div.blue_box{
+    background-color: CornflowerBlue;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 8px;
+    padding-right: 10px;
+}
+
+/* A grey background box (for feature row content) */
+div.grey_box{
+    color: white;
+    background-color: rgb(100, 100, 100);
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 8px;
+    padding-right: 10px;
+}
+
+/* A light grey background box (for feature row content) */
+div.light_grey_box{
+    background-color: rgb(200, 200, 200);
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 8px;
+    padding-right: 10px;
+}
+
+/* The big blue seminars-headings */
+h1.sem {
+    font-size: 200%;
+    color: blue
+}
+
+/* Two boxes next to each other, with responsive design */
+div.grid-container {
+  display: grid;
+  grid-row-gap: 10px;
+  grid-column-gap: 10px;
+}
+
+div.flex-start {
+  align-items: flex-start;
+}
+
+@media (min-width: 800px) {
+  div.small-container { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 1000px) {
+  div.wide-container { grid-template-columns: repeat(2, 1fr); }
+}
+
+.light_blue {
+    background-color: CornflowerBlue
+}
+
+.light_grey {
+    background-color: rgb(220, 220, 220)
+}
+
+@media (max-width: 450px) {
+    .light_grey {
+        background-color: white;
+    }
+}
+
+div.box {
+  margin: 20px;
+  padding: 20px;
+}
+
+/* Smaller text, for seminars page */
+div.smaller {
+  font-size: 85%;
+}
+
+/* No line break, for seminars page */
+h1.no-break {
+  white-space: nowrap;
+}
+
+/* Post title */
+h1.post-title, h1.post-title-change {
+  text-align: center;
+  text-decoration: underline;
+}
+
+span.post-title, span.post-title-change {
+  background-color: rgba(0, 0, 255, 0.15);
+  border: 2px solid rgb(210, 210, 210);
+  border-radius: 5px;
+  padding: 5px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+@media (max-width: 640px) {
+  h1.post-title-change, span.post-title-change  {
+    background-color: white !important;
+    border: 0px solid white !important;
+    text-decoration: none !important;
+    color: blue;
+  }
+}
+
+/* Max widths */
+
+img.max900 {
+    width:100%;
+    max-width:900px;
+}
+
+img.max800 {
+    width:100%;
+    max-width:800px;
+}
+
+img.max600 {
+    width:100%;
+    max-width:600px;
+}
+
+.max500 {
+    width:100%;
+    max-width:500px;
+}
+
+.max450 {
+    width:100%;
+    max-width:450px;
+}
+
+.max300 {
+    width:100%;
+    max-width:300px;
+}
+
+/* img positions */
+
+
+/* Headings with bold/not bold parts */
+.bold-header {
+    font-weight: bold;
+    display: inline;
+}
+
+.non-bold-header {
+    font-weight: normal;
+    display: inline;
+}
+
+p.smaller {
+    line-height: 10%;
+    display:inline-block;
+}
+
+hr.mobile {
+    border-top: 1px solid white;
+}
+
+@media (max-width: 650px) {
+    h2 {
+        border-bottom: none !important;
+    }
+    hr.mobile {
+        border-top: 1px solid rgba(0,0,0,0.1) !important;
+    }
+}
+
+/* Hover and style for tags */
+a.hov:hover {
+    transform: scale(1.15);
+    text-decoration: none!important;
+    MidnightBlue
+}
+
+a.hov {
+    background-color: SkyBlue;
+    color: MidnightBlue;
+    padding: 5px 10px;
+    border-radius: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 3px;
+    margin-right: 8px;
+    margin-bottom: 3px
+}
+
+a.hov:link{color:MidnightBlue}
+a.hov:active{color:MidnightBlue}
+a.hov:visited{color:MidnightBlue}
+
+/* hr for article tag separation line */
+hr.art-sep {
+    border-top: 2px solid grey
+}
+
+/* black links for format overview */
+a.format-overview {
+    color: black !important;
+}
+
+a.format-overview:hover {
+    color: rgb(80,80,80) !important;
+}
+
+
+
+span.tiny{
+   font-size: 0.5em;
+}
+
+
+
+
+/* Buttons */
+
+/* Button-Stil für den dunkleren blauen Button */
+.btn-custom-blue {
+  background-color: #0056b3;
+  border-color: #0056b3;
+  color: #fff !important;
+}
+
+.btn-custom-blue:hover {
+  background-color: #003a80;
+  border-color: #003a80;
+  color: #fff;
+}
+
+/* Button-Stil für den rötlichen Button */
+.btn-custom-red {
+  background-color: #b3000a;
+  border-color: #b3000a;
+  color: #fff !important;
+}
+
+.btn-custom-red:hover {
+  background-color: #800006;
+  border-color: #800006;
+  color: #fff;
+}

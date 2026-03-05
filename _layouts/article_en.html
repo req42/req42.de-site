@@ -1,0 +1,29 @@
+---
+title: Article
+layout: splash_en
+---
+
+<div class="splash_text">
+<br>
+<h1 class="post-title"> <span class="post-title"> {{ page.name }} </span> </h1>
+
+{{ content }}
+
+{% assign sorted_tags = page.tags | sort %}
+
+<br>
+
+<hr class="big-sep">
+<center>
+    <b> Tags: </b>
+</center>
+
+<center>
+{% for tag in sorted_tags %}
+<a class="hov"
+   href="{{site.baseurl}}/en/blog#{{tag|slugize}}"
+   rel="noopener noreferrer nofollow"
+   target="_blank">{{tag}}</a>
+{% endfor %}
+</center>
+</div>
