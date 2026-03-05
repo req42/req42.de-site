@@ -32,7 +32,7 @@ Nachfolgend unsere nächsten Termine mit Austragungsorten. Bitte beachten Sie un
 <div class="container left">  
     <div class="content" >
       17.-19. Juni 2026, online<br>
-      <strong class="blue-head">RE@AGILE <br>(IREB Advanced Level)</strong><br>
+      <strong class="blue-head">Mastering Agile Requirements</strong><br>
       <p>Ihr pragmatischer Weg zu agilem Requirements Engineering
       </p>
     <p> Mit dem „agilen Duo“ Markus Meuten und Peter Gerstbach </p>
@@ -40,14 +40,14 @@ Nachfolgend unsere nächsten Termine mit Austragungsorten. Bitte beachten Sie un
         Frühbucherpreis bei Anmeldung bis 31. März: € 1950,
         Normalpreis: € 2200,-
       </p>
-        <a href="/reagile" class="btn btn-custom-blue">Mehr Info</a>
+        <a href="/masteringagile" class="btn btn-custom-blue">Mehr Info</a>
         <a href="/anmeldung" class="btn btn-custom-red">Anmeldung</a>
   </div>
 </div>
 <div class="container right">  
     <div class="content" >
       24.-26. November 2026, Wien<br>
-      <strong class="blue-head">RE@AGILE <br>(IREB Advanced Level)</strong><br>
+      <strong class="blue-head">Mastering Agile Requirements</strong><br>
       <p>Ihr pragmatischer Weg zu agilem Requirements Engineering
       </p>
     <p> Mit dem „agilen Duo“ Peter Hruschka und Peter Gerstbach </p>
@@ -55,7 +55,7 @@ Nachfolgend unsere nächsten Termine mit Austragungsorten. Bitte beachten Sie un
         Frühbucherpreis bei Anmeldung bis 31. August: € 1950,
         Normalpreis: € 2200,-
       </p>
-        <a href="/reagile" class="btn btn-custom-blue">Mehr Info</a>
+        <a href="/masteringagile" class="btn btn-custom-blue">Mehr Info</a>
         <a href="/anmeldung" class="btn btn-custom-red">Anmeldung</a>
   </div>
 </div>
