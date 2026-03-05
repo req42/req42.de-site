@@ -1,0 +1,67 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "Das req42-Framework"
+    url: /req42-im-ueberblick
+  - title: "Download"
+    url: /download
+  - title: "Seminare"
+    url: /kurse
+  - title: "Termine"
+    url: /termine
+  - title: "Impuls-Coaching"
+    url: /coaching
+  - title: "Blog"
+    url: /blog
+  - title: "Über uns"
+    url: /ueber-uns
+
+
+main_en:
+  - title: "Home"
+    url: /en
+  - title: "The req42-framework"
+    url: /en/req42-at-a-glance
+  - title: "Download"
+    url: /en/download
+  - title: "Seminars"
+    url: /en/seminars
+  - title: "Impulse Coaching"
+    url: /en/coaching
+  - title: "Blog"
+    url: /en/blog
+  - title: "About us"
+    url: /en/about-us
+
+
+seminars:
+  - title: Seminare & Workshops
+    children:
+      - title: "Mastering Agile Requirements"
+        url: /masteringagile
+      - title: "Requirements Grundlagen"
+        url: /requirements-grundlagen
+      - title: "RE@Agile"
+        url: /reagile
+      - title: "IREB Zertifizierungen"
+        url: /ireb-zertifizierungen
+      - title: "Geschäftsbedingungen"
+        url: /geschaeftsbedingungen
+
+
+seminars_en:
+  - title: Seminars & workshops
+    children:
+      - title: "Mastering Agile Requirements"
+        url: /en/masteringagile
+      - title: "Requirements Basics"
+        url: /en/requirements-basics
+      - title: "RE@Agile"
+        url: /en/reagile
+      - title: "IREB Certifications"
+        url: /en/ireb-certifications
+      - title: "Terms of Business"
+        url: /en/terms-of-business
+
+
