@@ -195,7 +195,7 @@ news:
 
           
             <div class="archive__item-excerpt">
-              <p>Am effektivsten direkt in Ihrem Projekt: Wir erstellen und verfeinern Ihren Product-Backlog zusammen mit Ihren Requirements-Spezialisten</p>
+              <p>Wir bringen Ihnen req42 nicht nur in Form von Schulungen nahe. Am effektivsten ist unsere Hilfe direkt in Ihrem Vorhaben. Wir gestalten Ziele gemeinsam mit Ihnen, helfen beim Produkt-Backlog-Management, moderieren Ihre Requirements-Workshops, etc.</p>
 
             </div>
           
