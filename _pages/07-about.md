@@ -24,6 +24,11 @@ markus:
   Mit Agile Experts seit Jahren unterwegs, um Unternehmen bei der Umstellung auf agile Methoden zu unterstützen. 
   Lehrbeauftragter an der Universität Hannover."
 
+peterG:
+- title: "Peter Gerstbach"
+  image_path: images/about/PeterGerstbach.webp
+  excerpt: "Denken, analysieren, optimieren. Peter Gerstbach lebt diese Eigenschaften. Als Trainer und Berater schafft er es stets, sein Gegenüber in kürzester Zeit zu verstehen und Lösungen zu finden, die einerseits funktionieren und andererseits alle Seiten zufriedenstellen. Neben schlüssigen Argumenten findet er immer einen Weg, um aus der schwierigsten Herausforderung das Beste zu machen und daraus zu lernen."
+
 dirk:
 - title: "Dirk Fritsch"
   image_path: images/about/DirkFritsch.webp
@@ -33,10 +38,6 @@ dirk:
   In den Bereichen IT und Non-IT Projekten coacht er insbesondere Product Owner direkt in ihrer Praxis als einer von 
   derzeit ca. 250 weltweit zertifizierten Product Ownern mit PSPO Zertifizierung"
 
-  peterG:
-  - title: "Peter Gerstbach"
-  image_path: images/about/PeterGerstbach.webp
-  excerpt: "Denken, analysieren, optimieren. Peter Gerstbach lebt diese Eigenschaften. Als Trainer und Berater schafft er es stets, sein Gegenüber in kürzester Zeit zu verstehen und Lösungen zu finden, die einerseits funktionieren und andererseits alle Seiten zufriedenstellen. Neben schlüssigen Argumenten findet er immer einen Weg, um aus der schwierigsten Herausforderung das Beste zu machen und daraus zu lernen."
 
 ---
 
