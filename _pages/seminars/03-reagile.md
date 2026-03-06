@@ -96,7 +96,6 @@ kann direkt am Ende des Workshops – oder aber unabhängig davon abgelegt werde
 Voraussetzung für die Prüfungsteilnahme ist das IREB CPRE-Zertifikat. 
 Falls Sie dieses noch nicht haben, können Sie es durch unseren zweitägigen Workshop 
 [„Requirements-Grundlagen Powerkurs“](/requirements-grundlagen) erwerben. 
-Als bequeme Alternative bereitet Sie das [Trainingsvideo von Peter Hruschka](https://www.aschauerit.at/re35-videotraining-ba-re-nach-ireb/)
-zeitunabhängig auf die CPRE-Prüfung vor.
+
 
 </div>
