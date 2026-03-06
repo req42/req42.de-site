@@ -32,11 +32,18 @@ dirk:
   gibt Dirk sein Wissen in Trainings und Workshops mit fundierten Fach- und Praxiskenntnissen weiter. 
   In den Bereichen IT und Non-IT Projekten coacht er insbesondere Product Owner direkt in ihrer Praxis als einer von 
   derzeit ca. 250 weltweit zertifizierten Product Ownern mit PSPO Zertifizierung"
+
+  peterG:
+  - title: "Peter Gerstbach"
+  excerpt: "Denken, analysieren, optimieren. Peter Gerstbach lebt diese Eigenschaften. Als Trainer und Berater schafft er es stets, sein Gegenüber in kürzester Zeit zu verstehen und Lösungen zu finden, die einerseits funktionieren und andererseits alle Seiten zufriedenstellen. Neben schlüssigen Argumenten findet er immer einen Weg, um aus der schwierigsten Herausforderung das Beste zu machen und daraus zu lernen."
+
 ---
 
 {% include feature_row id="peter" type="left" %}
 {% include feature_row id="markus" type="right" %}
-{% include feature_row id="dirk" type="left" %}
+{% include feature_row id="peterG" type="left" %}
+{% include feature_row id="dirk" type="right" %}
+
 
 <div class="framework" markdown="1"> 
 
