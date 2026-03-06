@@ -10,7 +10,7 @@ header:
     url: "/en"
   - label: "Mehr zu req42"
     url: "/req42-im-ueberblick"
-excerpt: "Das Fundament für Produkte, die begeistern – <br>
+excerpt: "Gute Anforderungen als Fundament für Produkte, die begeistern – <br>
           erprobt, **praktisch** & **pragmatisch**"
 
 feature_row:
