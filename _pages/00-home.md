@@ -151,7 +151,7 @@ news:
 
           
             <div class="archive__item-excerpt">
-              <p>In unseren Seminaren bringen wir Ihnen als Product-Owner oder agile Requirements Engineers das notwendige Handwerkszeug bei. <br /> <br /> Live oder online – vereinbaren Sie Termine mit uns!</p>
+              <p>In unseren Seminaren lernen Sie, wie Sie Anforderungen im agilen Umfeld pragmatisch und wirkungsvoll gestalten. Sie erkennen echte Nutzerbedürfnisse, priorisieren nach Business Value und schaffen Klarheit für Entwicklungsteams – damit aus Ideen erfolgreiche Produkte werden. <br /> <br /> Live oder online – vereinbaren Sie Termine mit uns!</p>
 
             </div>
           
