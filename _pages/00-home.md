@@ -10,7 +10,7 @@ header:
     url: "/en"
   - label: "Mehr zu req42"
     url: "/req42-im-ueberblick"
-excerpt: "Das Framework für agiles Requirements Management – <br>
+excerpt: "Das Fundament für Produkte, die begeistern – <br>
           erprobt, **praktisch** & **pragmatisch**"
 
 feature_row:
