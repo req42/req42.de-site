@@ -18,7 +18,7 @@ feature_row:
   url: "/kurse"
   btn_label: "Mehr dazu"
   btn_class: btn--info
-  excerpt: "In unseren Seminaren bringen wir Ihnen als Product-Owner oder agile Requirements Engineers das notwendige Handwerkszeug bei. <br> <br> 
+  excerpt: "In unseren Seminaren lernen Sie, wie Sie Anforderungen im agilen Umfeld pragmatisch und wirkungsvoll gestalten. Sie erkennen echte Nutzerbedürfnisse, priorisieren nach Business Value und schaffen Klarheit für Entwicklungsteams – damit aus Ideen erfolgreiche Produkte werden. <br> <br> 
             Live oder online – vereinbaren Sie Termine mit uns!"
 - title: "<center> <small> Peter Hruschka & Markus Meuten </small></center>"
   excerpt: "![](/images/home/peter_markus.webp)<br> Als agiles Duo zeigen wir Ihnen bei öffentlichen Seminaren agiles Requirements Engineering aus verschiedenen Blickwinkeln."
