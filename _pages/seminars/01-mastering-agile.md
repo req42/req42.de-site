@@ -5,7 +5,7 @@ permalink: /masteringagile
 header:
     overlay_image: /images/headers/masteringagile_header.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
-excerpt: "Ein 3-tägiger Workshop zur Einführung in das [agile Framework req42](/req42-im-ueberblick) vom agilen Duo Peter Hruschka und Markus Meuten"
+excerpt: "Ein 3-tägiger Workshop zur Einführung in das [agile Framework req42](/req42-im-ueberblick)
 
 blackbelt:
 - title: "Erwerben Sie von uns den schwarzen Gürtel im Agilen Requirements Engineering!"
@@ -47,7 +47,7 @@ Lernen Sie Ihre Visionen und Ziele explizit zu machen, ihre Stakeholder kennen u
 * **Funktionale Anforderungen beherrschen**  
 Lernen Sie Techniken, Praktiken, Tipps & Tricks für den Umgang mit Epics, Features und Stories. Wie man sie strukturiert, wie man sie dokumentiert und kommuniziert.
 
-* **Nicht-funktionale Anforderungen meistern**  
+* **Qualitätsanforderungen und Randbedingungen meistern**  
 Sie können die Bedeutung von Qualitätsanforderungen für den Produkterfolg einschätzen und lernen den Umgang mit Qualitäten und Randbedingungen im agilen Umfeld.
 
 * **Priorisieren und Planen**  
@@ -65,8 +65,8 @@ Sie lernen über MVPs (Minimum Viable Products) und MMPs (Minimum Marketable Pro
 * **Think big!**  
 Sie lernen den Umgang mit großen Projekten und verteilten Teams. Wie können agile Requirements-Methoden im Unternehmen skaliert werden? Welche Ideen können Sie von populären Skalierungs-Frameworks wie SAFe, LeSS oder Nexus übernehmen? Ihr Weg vom erfolgreichen agilen Projekt zur erfolgreichen agilen Organisation!
 
-* **Prüfungsvorbereitung**  
-Wir wiederholen alles, was Sie zur Advanced Level Prüfung „RE@Agile“ wissen müssen. Ab 15:00 Uhr können Sie [den ersten Teil der Prüfung](/ireb-zertifizierungen) (den Multiple Choice Test) direkt ablegen.
+* **Optional: Prüfungsvorbereitung**  
+Das Seminar ist für Ihre praktische Arbeit konzipiert. Wir bringen Ihnen aber auch alles bei, was Sie zur Advanced Level Prüfung „RE@Agile“ wissen müssen. Im Anschluss können Sie auf Wunsch [den ersten Teil der Prüfung](/ireb-zertifizierungen) (den Multiple Choice Test) direkt ablegen.
 
 # Voraussetzungen:
 **keine!**

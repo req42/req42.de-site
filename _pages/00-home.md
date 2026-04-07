@@ -174,7 +174,7 @@ news:
 
           
             <div class="archive__item-excerpt">
-              <p><img src="/images/home/peter_markus.webp" alt="" /><br /> Als agiles Duo zeigen wir Ihnen bei öffentlichen Seminaren agiles Requirements Engineering aus verschiedenen Blickwinkeln.</p>
+              <p><img src="/images/home/peter_markus.webp" alt="" /><br /> Als agiles Duo haben wir req42 geschaffen. Zusammen mit unseren Partnern zeigen wir Ihnen bei öffentlichen Seminaren agiles Requirements Engineering aus verschiedenen Blickwinkeln.</p>
 
             </div>
           
