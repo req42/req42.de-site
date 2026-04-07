@@ -61,7 +61,7 @@ evtl. verteile Projekte skaliert.
 * **Funktionale Anforderungen beherrschen**  
   Lernen Sie Techniken, Praktiken, Tipps & Tricks für den Umgang mit Epics, Features und Stories. Wie man sie strukturiert, wie man sie dokumentiert und kommuniziert.
 
-* **Nicht-funktionale Anforderungen meistern**  
+* **Qualitätsanforderungen und Randbedingungen meistern**  
   Sie können die Bedeutung von Qualitätsanforderungen für den Produkterfolg einschätzen und lernen den Umgang mit Qualitäten und Randbedingungen im agilen Umfeld.
 
 * **Priorisieren und Planen**  
