@@ -5,7 +5,7 @@ permalink: /masteringagile
 header:
     overlay_image: /images/headers/masteringagile_header.webp
     overlay_filter: rgba(0, 0, 0, 0.6)
-excerpt: "Ein 3-tägiger Workshop zur Einführung in das [agile Framework req42](/req42-im-ueberblick)
+excerpt: "Ein 3-tägiger Workshop zur Einführung in das [agile Framework req42](/req42-im-ueberblick)"
 
 blackbelt:
 - title: "Erwerben Sie von uns den schwarzen Gürtel im Agilen Requirements Engineering!"
