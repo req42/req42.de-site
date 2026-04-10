@@ -9,10 +9,6 @@ header:
 
 ---
 
-<center>
-{% include nav_list nav="seminars_en" %}
-</center>
-
 <div class="grid-container wide-container smaller" markdown="1">
 
 <div class="box light_grey" markdown="1">
@@ -73,3 +69,6 @@ The IREB Advanced Level curriculum, which we initiated and played a major role i
 
 </div>
 
+<center>
+{% include nav_list nav="seminars_en" %}
+</center>
