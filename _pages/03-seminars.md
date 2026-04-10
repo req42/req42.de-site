@@ -9,10 +9,6 @@ header:
 
 ---
 
-<center>
-{% include nav_list nav="seminars" %}
-</center>
-
 <div class="grid-container wide-container smaller" markdown="1">
 
 <div class="box light_grey" markdown="1">
@@ -73,3 +69,6 @@ Der Advanced-Level Lehrplan des IREB, den wir initiiert und maßgeblich mitgesta
 
 </div>
 
+<center>
+{% include nav_list nav="seminars" %}
+</center>
