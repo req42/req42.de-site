@@ -37,7 +37,7 @@ Nachfolgend unsere nächsten Termine mit Austragungsorten. Bitte beachten Sie un
       </p>
     <p> Mit dem „agilen Duo“ Markus Meuten und Peter Gerstbach </p>
       <p class="date-small">
-        Frühbucherpreis bei Anmeldung bis 31. März: € 1950,
+        Frühbucherpreis bei Anmeldung bis 30. April € 1950,
         Normalpreis: € 2200,-
       </p>
         <a href="/masteringagile" class="btn btn-custom-blue">Mehr Info</a>
