@@ -63,7 +63,7 @@ Think of these artifacts as a cabinet, where each artifact has its own compartme
 1.	<span style="color:red"> Business Goals </span>
 2.	<span style="color:green"> Stakeholders </span>
 3.	<span style="color:green"> Scope </span>
-4.	<span style="color:green"> Product Backlog </span>   
+4.	<span style="color:green"> Functional Requirements </span>   
       4.1	<span style="color:green"> Epics </span>   
       4.2	<span style="color:green"> Features </span>   
       4.3	<span style="color:green"> User-Storys </span>   
