@@ -26,20 +26,20 @@ Because:
 <p style="text-align: center" markdown="1"> **Agile requirements engineering is much more than just managing the product backlog.** </p>
 
 The following figure shows you the *"universe of the product owner"* from req42. 
-The *"guiding star"* in the middle is of course the Product Backlog as the most important artifact, 
+The *"guiding star"* in the middle are the functional requirements (i.e. the core content of the  Product Backlog) as the most important artifact, 
 with which you will certainly spend most of your time. 
 But around it many other artifacts are revolving that you should take seriously in your role as a product owner 
 from a management perspective or from a requirements perspective.
 
 ![](/images/framework/en/universe.webp)<br><br>
 The 
-<span style="color:blue"> blue </span>
+<span style="color:green"> green </span>
 planets are the more requirements-oriented deliverables, 
 the
 <span style="color:red"> red </span>
 planets are the more management-oriented records,
 and the
-<span style="color:green"> green </span>
+<span style="color:blue"> blue </span>
 planet represents your development team's intermediate deliverables (the continuously delivered product increments) that you, as the product owner, need to sign off on.
 
 ## The six main tasks of product owners:
