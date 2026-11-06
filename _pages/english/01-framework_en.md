@@ -61,16 +61,16 @@ We hope that the metaphor of the universe will steer you away from having to man
 Think of these artifacts as a cabinet, where each artifact has its own compartment. The cabinet today should of course not be one filled with lots of paper in different compartments, but rather a wiki with an appropriate structure or some other electronic collection. With such a cabinet, you can number the product owner's universe and place the artifacts in the respective cabinet compartment.
 
 1.	<span style="color:red"> Business Goals </span>
-2.	<span style="color:blue"> Stakeholders </span>
-3.	<span style="color:blue"> Scope </span>
-4.	<span style="color:blue"> Product Backlog </span>   
-      4.1	<span style="color:blue"> Epics </span>   
-      4.2	<span style="color:blue"> Features </span>   
-      4.3	<span style="color:blue"> User-Storys </span>   
-5.	<span style="color:blue"> Supporting Models </span>
-6.	<span style="color:blue"> Quality Requirements </span>
-7.	<span style="color:blue"> Constraints </span>
-8.	<span style="color:blue"> Domain Terminology </span>
+2.	<span style="color:green"> Stakeholders </span>
+3.	<span style="color:green"> Scope </span>
+4.	<span style="color:green"> Product Backlog </span>   
+      4.1	<span style="color:green"> Epics </span>   
+      4.2	<span style="color:green"> Features </span>   
+      4.3	<span style="color:green"> User-Storys </span>   
+5.	<span style="color:green"> Supporting Models </span>
+6.	<span style="color:green"> Quality Requirements </span>
+7.	<span style="color:green"> Constraints </span>
+8.	<span style="color:green"> Domain Terminology </span>
 9.	<span style="color:red"> Assets </span>
 10.	<span style="color:red"> Team Structure </span>
 11.	<span style="color:red"> Roadmaps </span>
@@ -78,7 +78,7 @@ Think of these artifacts as a cabinet, where each artifact has its own compartme
 
 <small>
 (If you miss the
-<span style="color:green"> green </span>
+<span style="color:blue"> blue </span>
 planet - the product increments: these are contained in your development team's cabinet. As a product owner, you don't own this artifact; you only review it after the development team declares it as “done”.)
 </small>
 
@@ -88,17 +88,17 @@ The following table shows how the planets of the universe, or the compartments o
 |---|---|
 | Clean Start | <span style="color:red"> 9. Assets </span> |
 |  | <span style="color:red"> 1. Business Goals </span> |
-|  | <span style="color:blue"> 2. Stakeholders </span> |
-|  | <span style="color:blue"> 3. Scope </span> |
-| Handle Functional Requirements |  <span style="color:blue"> 4. Product Backlog </span> |
-|  |  <span style="color:blue"> 5. Supporting Models </span> |
-|  |  <span style="color:blue"> 8. Domain Terminology </span> |
-| Handle Quality and Constraints |  <span style="color:blue"> 6. Quality Requirements </span> |
-|  | <span style="color:blue"> 7. Constraints </span> |
+|  | <span style="color:green"> 2. Stakeholders </span> |
+|  | <span style="color:green"> 3. Scope </span> |
+| Handle Functional Requirements |  <span style="color:green"> 4. Product Backlog </span> |
+|  |  <span style="color:green"> 5. Supporting Models </span> |
+|  |  <span style="color:green"> 8. Domain Terminology </span> |
+| Handle Quality and Constraints |  <span style="color:green"> 6. Quality Requirements </span> |
+|  | <span style="color:green"> 7. Constraints </span> |
 | Planning & Estimating | <span style="color:red"> 10. Team Structure </span> |
 |  | <span style="color:red"> 11.Roadmaps </span> |
 |  | <span style="color:red"> 12. Risks / Assumptions </span> |
-| Check Results | <span style="color:green"> 13. Product Increments </span> |
+| Check Results | <span style="color:blue"> 13. Product Increments </span> |
 
 ## req42 is more than Scrum
 
