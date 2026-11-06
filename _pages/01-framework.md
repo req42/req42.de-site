@@ -30,13 +30,13 @@ Die folgende Abbildung zeigt Ihnen das *„Universum des Product Owners“* von 
 
 ![](/images/framework/universe.webp)<br><br>
 Die 
-<span style="color:blue"> blauen </span> 
+<span style="color:green"> grünen </span> 
 Himmelskörper sind die eher requirements-orientierten Ergebnisse, 
 die
 <span style="color:red"> roten </span>
 Planeten sind die eher management-orientierten Aufzeichnungen, 
 und der
-<span style="color:green"> grüne </span>
+<span style="color:blue"> blauen </span>
 Planet stellt die Zwischenergebnisse Ihres Entwicklungsteams dar (die laufend gelieferten Produkt-Inkremente), die Sie als Product-Owner abnehmen müssen.
 
 ## Die sechs Hauptaufgaben von Product Ownern:
@@ -57,16 +57,16 @@ Stellen Sie sich diese Artefakte als Schrank vor, wo jedes Artefakt sein eigens 
 Dieses Nummerierungsschema verwenden wir auch in unserem [„Praxishandbuch für Agiles Requirements Engineering – Tipps zum Kommunizieren & Dokumentieren von Anforderungen“](https://leanpub.com/AgileRE). Dort finden Sie eine voll ausgearbeitete Fallstudie, in der alle Fächer von req42 gefüllt sind, sowie über 100 Tipps für Product Owner.
 
 1.	<span style="color:red"> Vision/Ziele </span>
-2.	<span style="color:blue"> Stakeholder </span>
-3.	<span style="color:blue"> Scope-Abgrenzung </span>
-4.	<span style="color:blue"> Product Backlog </span>   
-      4.1	<span style="color:blue"> Epics </span>   
-      4.2	<span style="color:blue"> Features </span>   
-      4.3	<span style="color:blue"> User-Storys </span>   
-5.	<span style="color:blue"> Modelle zur Unterstützung </span>
-6.	<span style="color:blue"> Qualitätsanforderungen </span>
-7.	<span style="color:blue"> Randbedingungen </span>
-8.	<span style="color:blue"> Domänen-Terminologie </span>
+2.	<span style="color:green"> Stakeholder </span>
+3.	<span style="color:green"> Scope-Abgrenzung </span>
+4.	<span style="color:green"> Product Backlog </span>   
+      4.1	<span style="color:green"> Epics </span>   
+      4.2	<span style="color:green"> Features </span>   
+      4.3	<span style="color:green"> User-Storys </span>   
+5.	<span style="color:green"> Modelle zur Unterstützung </span>
+6.	<span style="color:green"> Qualitätsanforderungen </span>
+7.	<span style="color:green"> Randbedingungen </span>
+8.	<span style="color:green"> Domänen-Terminologie </span>
 9.	<span style="color:red"> Betriebsmittel & Personal </span>
 10.	<span style="color:red"> Teamstruktur </span>
 11.	<span style="color:red"> Roadmaps </span>
@@ -74,7 +74,7 @@ Dieses Nummerierungsschema verwenden wir auch in unserem [„Praxishandbuch für
 
 <small>
 (Wenn Sie den
-<span style="color:green"> grünen </span>
+<span style="color:blue"> blauen </span>
 Planeten – die Produkt-Inkremente –  vermissen: diese sind im Schrank Ihres Entwicklungsteams enthalten. Als Produkt-Owner gehört Ihnen dieses Artefakt nicht; sie prüfen es nur nach Freigabe.)
 </small>
 
@@ -84,17 +84,17 @@ Wie die Planeten des Universums bzw. die Fächer des Schranks mit den Aufgaben e
 |---|---|
 | Clean Start | <span style="color:red"> 9. Betriebsmittel & Personal </span> |
 |  | <span style="color:red"> 1. Vision/Ziele </span> |
-|  | <span style="color:blue"> 2. Stakeholder </span> |
-|  | <span style="color:blue"> 3. Scope-Abgrenzung </span> |
-| funktionale Anforderungen klären |  <span style="color:blue"> 4. Product Backlog </span> |
-|  |  <span style="color:blue"> 5. Modelle zur Unterstützung </span> |
-|  |  <span style="color:blue"> 8. Domänen-Terminologie </span> |
-| Qualitäts- und Randbedingungen klären |  <span style="color:blue"> 6. Qualitätsanforderungen </span> |
-|  | <span style="color:blue"> 7. Randbedingungen </span> |
+|  | <span style="color:green"> 2. Stakeholder </span> |
+|  | <span style="color:green"> 3. Scope-Abgrenzung </span> |
+| funktionale Anforderungen klären |  <span style="color:green"> 4. Product Backlog </span> |
+|  |  <span style="color:green"> 5. Modelle zur Unterstützung </span> |
+|  |  <span style="color:green"> 8. Domänen-Terminologie </span> |
+| Qualitäts- und Randbedingungen klären |  <span style="color:green"> 6. Qualitätsanforderungen </span> |
+|  | <span style="color:green"> 7. Randbedingungen </span> |
 | Planen und Schätzen | <span style="color:red"> 10. Teamstruktur </span> |
 |  | <span style="color:red"> 11. Roadmaps </span> |
 |  | <span style="color:red"> 12. Risiken/Annahmen </span> |
-| Produkt-Inkremente prüfen | <span style="color:green"> 13. Produkt-Inkrement </span> |
+| Produkt-Inkremente prüfen | <span style="color:blue"> 13. Produkt-Inkrement </span> |
 
 ## req42 ist mehr als Scrum
 
