@@ -26,7 +26,7 @@ Denn:
 
 <p style="text-align: center" markdown="1"> **Agiles Requirements Engineering ist viel mehr als nur das Product Backlog managen.** </p>
 
-Die folgende Abbildung zeigt Ihnen das *„Universum des Product Owners“* von req42. Als *„Leitstern“* in der Mitte steht natürlich der Product Backlog als wichtigstes Artefakt, mit dem Sie sicherlich die meiste Zeit verbringen werden. Aber rundherum kreisen viele andere Artefakte, die Sie in Ihrer Rolle als Produkt-Owner aus Managementsicht oder aus Requirements-Sicht ernst nehmen sollten.
+Die folgende Abbildung zeigt Ihnen das *„Universum des Product Owners“* von req42. Als *„Leitstern“* in der Mitte stehen natürlich die funktionalen Anforderungen (d.h. der Hauptteil des Product Backlog) als wichtigstes Artefakt, mit denen Sie sicherlich die meiste Zeit verbringen werden. Aber rundherum kreisen viele andere Artefakte, die Sie in Ihrer Rolle als Produkt-Owner aus Managementsicht oder aus Requirements-Sicht ernst nehmen sollten.
 
 ![](/images/framework/universe.webp)<br><br>
 Die 
@@ -59,7 +59,7 @@ Dieses Nummerierungsschema verwenden wir auch in unserem [„Praxishandbuch für
 1.	<span style="color:red"> Vision/Ziele </span>
 2.	<span style="color:green"> Stakeholder </span>
 3.	<span style="color:green"> Scope-Abgrenzung </span>
-4.	<span style="color:green"> Product Backlog </span>   
+4.	<span style="color:green"> Funktionale Anforderungen </span>   
       4.1	<span style="color:green"> Epics </span>   
       4.2	<span style="color:green"> Features </span>   
       4.3	<span style="color:green"> User-Storys </span>   
