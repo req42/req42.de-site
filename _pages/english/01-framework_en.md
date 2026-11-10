@@ -90,7 +90,7 @@ The following table shows how the planets of the universe, or the compartments o
 |  | <span style="color:red"> 1. Business Goals </span> |
 |  | <span style="color:green"> 2. Stakeholders </span> |
 |  | <span style="color:green"> 3. Scope </span> |
-| Handle Functional Requirements |  <span style="color:green"> 4. Product Backlog </span> |
+| Handle Functional Requirements |  <span style="color:green"> 4. Functional Requirements </span> |
 |  |  <span style="color:green"> 5. Supporting Models </span> |
 |  |  <span style="color:green"> 8. Domain Terminology </span> |
 | Handle Quality and Constraints |  <span style="color:green"> 6. Quality Requirements </span> |

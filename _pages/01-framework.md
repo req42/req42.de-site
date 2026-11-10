@@ -86,7 +86,7 @@ Wie die Planeten des Universums bzw. die Fächer des Schranks mit den Aufgaben e
 |  | <span style="color:red"> 1. Vision/Ziele </span> |
 |  | <span style="color:green"> 2. Stakeholder </span> |
 |  | <span style="color:green"> 3. Scope-Abgrenzung </span> |
-| funktionale Anforderungen klären |  <span style="color:green"> 4. Product Backlog </span> |
+| funktionale Anforderungen klären |  <span style="color:green"> 4. Funktionale Anforderungen </span> |
 |  |  <span style="color:green"> 5. Modelle zur Unterstützung </span> |
 |  |  <span style="color:green"> 8. Domänen-Terminologie </span> |
 | Qualitäts- und Randbedingungen klären |  <span style="color:green"> 6. Qualitätsanforderungen </span> |
