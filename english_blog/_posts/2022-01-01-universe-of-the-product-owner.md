@@ -14,7 +14,7 @@ Very often (especially in Scrum-heavy literature) the work of the product owner 
 
 **Agile requirements engineering is much more than just managing the product backlog.**
 
-Of course, the product backlog is the most important artifact for managing requirements in agile teams. However, it is often overlooked that as a product owner you also have to take care of other things. For example, you should have written goals so that not everyone in the project dreams of other goals. Of course, everyone should speak a common language, because if everyone talks about different things, then there is a big risk of communication problems in the team.
+Of course, the product backlog is the most important artifact for managing (functional) requirements in agile teams. However, it is often overlooked that as a product owner you also have to take care of other things. For example, you should have written goals so that not everyone in the project dreams of other goals. Of course, everyone should speak a common language, because if everyone talks about different things, then there is a big risk of communication problems in the team.
 
 To show you as a product owner the totality of the things (new German: Artifacts) you have to manage, we have chosen the universe as a metaphor, or better the part of the universe that concerns you as a product owner. At the center of your universe is the Product Backlog as one of your most important working tools. However, many other artifacts that make agile requirements engineering successful revolve around this center (see Fig. 1).
 <figure>
@@ -29,9 +29,9 @@ We hope this metaphor gets you away from the idea that you need to manage all th
 *Remember our color code we introduced on [www.req42.de](/en/req42-at-a-glance)?  If not - as a refresher again:*
 *<span style="color:red">red</span>*
 *are the things of your universe that are mainly management oriented,*
-*<span style="color:blue">blue</span>*
-*are the requirements relevant things and*
 *<span style="color:green">green</span>*
+*are the requirements relevant things and*
+*<span style="color:blue">blue</span>*
 *are the results of the development team.*
 
 *As a product owner you are a mix of manager and business analyst/requirements engineer, so your universe consists mainly of red and blue planets.*

@@ -11,7 +11,7 @@ Sehr oft wird (vor allem in Scrum-lastiger Literatur) die Arbeit des Product Own
 
 **Agiles Requirements Engineering ist viel mehr als nur das Product Backlog managen.**
 
-Natürlich ist das Product Backlog das wichtigste Artefakt zum Managen von Anforderungen in agilen Teams. Dabei wird aber oft übersehen, dass Sie als Product Owner sich auch noch um weitere Dinge kümmern müssen. Zum Beispiel sollten Sie schriftlich festgehaltene Ziele haben, damit nicht jeder im Projekt von anderen Zielen träumt. Natürlich sollten alle eine gemeinsame Sprache sprechen, denn wenn jeder über andere Dinge spricht, dann besteht die große Gefahr von Kommunikationsproblemen im Team.
+Natürlich ist das Product Backlog das wichtigste Artefakt zum Managen von (funktionalen) Anforderungen in agilen Teams. Dabei wird aber oft übersehen, dass Sie als Product Owner sich auch noch um weitere Dinge kümmern müssen. Zum Beispiel sollten Sie schriftlich festgehaltene Ziele haben, damit nicht jeder im Projekt von anderen Zielen träumt. Natürlich sollten alle eine gemeinsame Sprache sprechen, denn wenn jeder über andere Dinge spricht, dann besteht die große Gefahr von Kommunikationsproblemen im Team.
 
 Um Ihnen als Product Owner die Gesamtheit der von Ihnen zu verwaltenden Dinge (neudeutsch: Artifacts) aufzuzeigen haben wir als Metapher das Universum gewählt, oder besser den Teil des Universums, der Sie als Product Owner betrifft. Im Zentrum Ihres Universums steht der Product Backlog als eines Ihrer wichtigsten Arbeitsinstrumente. Um dieses Zentrum herum kreisen jedoch viele andere Artefakte, die agiles Requirements Engineering erst erfolgreich machen (vgl. Abb. 1).
 
@@ -27,9 +27,9 @@ Wir hoffen, dass diese Metapher Sie davon abbringt, dass Sie all diese Artefakte
 *Erinnern Sie sich an unseren Farbcode, den wir auf [www.req42.de](/req42-im-ueberblick) eingeführt haben?  Wenn nicht – zur Auffrischung nochmals:*
 *<span style="color:red">rot</span>*
 *sind die Dinge Ihres Universums, die hauptsächlich managementorientiert sind,*
-*<span style="color:blue">blau</span>*
-*sind die requirementsrelevanten Dinge und*
 *<span style="color:green">grün</span>*
+*sind die requirementsrelevanten Dinge und*
+*<span style="color:blue">blau</span>*
 *sind die Ergebnisse des Entwicklungsteams.*
 
 *Da Sie als Product-Owner eine Mischung aus Manager und Business Analyst/Requirements Engineer sind, besteht Ihr Universum hauptsächlich aus roten und blauen Planeten.*
